@@ -1,0 +1,11 @@
+{
+  "name": "ae-dust-full",
+  "version": "1.0.0",
+  "description": "npm wrapper for dust full for browserify compatibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
